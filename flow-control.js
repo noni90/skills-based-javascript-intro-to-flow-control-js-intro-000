@@ -3,4 +3,3 @@ function basicTeenager(age) {
     return "You are a teenager!";
   }
 }
-
