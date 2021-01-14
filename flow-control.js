@@ -9,7 +9,7 @@ function teenager(age) {
     return "you are a teenager!";
     } else {
       return "you are not a teenager!";
-      }
+    }
 }
 
 function ageChecker(age) {
