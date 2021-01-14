@@ -11,8 +11,7 @@ if (age >= 13 && age <= 19)
 return "you are a teenager!";
 }
 else {
-r
-eturn "you are not a teenager!";
+return "you are not a teenager!";
 }
 }
 
