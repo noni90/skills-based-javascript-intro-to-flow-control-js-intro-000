@@ -20,11 +20,13 @@ if(age >= 13 && age <= 19)
 {
   return "you are a teenager!";
 }
-if(age<=12)
+else if (true) {
+  
+}(age<=12)
 {
 return "You are a kid";
 }
-elseif(age>=20)
+else if(age>=20)
 {
 return "You are a grownup";
 }
