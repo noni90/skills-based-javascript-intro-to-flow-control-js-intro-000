@@ -6,12 +6,12 @@ if (age >= 13 && age <= 19);
 }
 
 function teenager(age) {
-if (age < 14 && age > 20)
+if (age >= 13 && age <= 19)
 {
-return "you are not a teenager!";
+return "you are a teenager!";
 }
 else {
-return "you are a teenager!";
+return "you are not a teenager!";
 }
 }
 
