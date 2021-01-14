@@ -21,7 +21,7 @@ if(age >= 13 && age <= 19)
   return "you are a teenager!";
 }
 else if (true) {
-  
+
 }(age<=12)
 {
 return "You are a kid";
