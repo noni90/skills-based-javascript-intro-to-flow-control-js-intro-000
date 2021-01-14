@@ -48,9 +48,9 @@ switch (age) {
   return "You are a teenager";
   default:
   return "you have an age"
-    
-  
-    
+
+
+
 }
 
 }
